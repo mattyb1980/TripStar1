@@ -1,0 +1,240 @@
+html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+
+h3 {
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+
+#navLogo {
+	width: 23%;
+	margin-left: 20px;
+	margin-top: 0px;
+}
+
+.navbar {
+	background-color: #02779E;
+	margin-bottom: 0px;
+	border-radius: 0px;
+	overflow: auto;
+	height: 70px;
+}
+
+#headerImage { 
+    /* The image used */
+    background-image: url("../images/hotel.jpg");
+    border-radius: 0px;
+
+    /* Set a specific height */
+    height: 350px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#formHeader,.iconText {
+	font-family:'Oxygen';
+}
+
+#mainForm {
+	background-color: #ffffff;
+	padding: 20px 10px 50px 10px;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 150px;
+	width: 	900px;
+	box-shadow: 0px 5px 10px #888888;
+}
+
+#middleImage { 
+    /* The image used */
+    background-image: url("../images/cocktail.jpg");
+
+    /* Set a specific height */
+    height: 300px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container, .jumbotron, .container-fluid, .jumbotron, #eventbriteCol {
+    padding-right: 0px;
+    padding-left: 0px;
+    border-radius: 0px;
+    text-align: center;
+}
+
+#iconDiv {
+	text-align: center;
+}
+
+.icons {
+	width: 30%;
+	margin-top: 80px;
+}
+
+.icons1 {
+	width: 40%;
+	margin-top: 100px;
+}
+
+.iconText {
+	margin-top :20px;
+	margin-bottom: 125px;
+	color: #FF9900;
+}
+
+#formHeader {
+	font-size: 40px;
+	padding-bottom: 20px;
+	color: #FF9900;
+	font-weight: 300;
+}
+
+
+#calendarDiv {
+	height: 600px;
+	background-color: #eee;
+	margin-top: 20px;
+}
+
+#optionsDiv {
+	height: 600px;
+	background-color: #ee533c;
+	margin-top: 20px;
+}
+
+#map {
+    height: 100%;
+    margin-bottom: 30px;
+}
+
+#description {
+	font-family: Roboto;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+#midMessage {
+	font-family: 'Nunito';
+	color: white;
+	margin-top: 70px;
+}
+
+#infowindow-content .title {
+	font-weight: bold;
+}
+
+#infowindow-content {
+	display: none;
+}
+
+#map #infowindow-content {
+	display: inline;
+}
+
+.pac-card {
+	margin: 10px 10px 0 0;
+	border-radius: 2px 0 0 2px;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	outline: none;
+	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+	background-color: #fff;
+	font-family: Roboto;
+}
+
+#pac-container {
+	padding-bottom: 12px;
+	margin-right: 12px;
+}
+
+.pac-controls {
+	display: inline-block;
+	padding: 5px 11px;
+}
+
+.pac-controls label {
+	font-family: Roboto;
+	font-size: 13px;
+	font-weight: 300;
+}
+
+#pac-input {
+	background-color: #fff;
+	font-family: Roboto;
+	font-size: 15px;
+	font-weight: 300;
+	margin-left: 12px;
+	padding: 0 11px 0 13px;
+	text-overflow: ellipsis;
+	width: 400px;
+	display: none;
+}
+
+#pac-input:focus {
+	
+}
+
+#title {
+	color: #fff;
+	background-color: #4d90fe;
+	font-size: 25px;
+	font-weight: 500;
+	padding: 6px 12px;
+}
+#target {
+	width: 345px;
+}
+
+/*.panel-primary, .panel-heading {
+    color: #fff;
+    background-color: #02779e;
+    border-color: #02779e;
+}*/
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 200;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+  font-size:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
